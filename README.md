@@ -1,9 +1,7 @@
-# [cnn_readme.md](https://github.com/user-attachments/files/25591353/cnn_readme.md)
 # Human vs AI-Generated Images
 ## Convolutional Neural Network (CNN)
 
 **Author:** Chloe Florit  
-**Course:** CS 273P – Winter 2025
 
 ---
 
